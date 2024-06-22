@@ -4,9 +4,12 @@
 body{
     background-color: #131720;
     font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
 }
 h3{
-    color: white;
+    margin: 10px 0;
 }
 .topnav{
     background-color: #131720;
@@ -37,9 +40,8 @@ form{
     align-items: center;
 }
 input{
-    all: unset;
     font: 15px system-ui;
-    color: white;
+    color: black;
     height: 100%;
     width: 100%;
     padding: 6px 9px;
